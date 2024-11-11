@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.barra {
+    background-color: black;
+    height: 10vh;
+    width: 100vw;
+    color: whitesmoke;
+}
+.principal {
+    width: 100vw;
+    height: 85vh;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.texto {
+    color: bisque;
+    width: 60vw;
+    height: 30vh;
+    background-color: brown;
+    padding: 20px;
+    text-align: center;
+}
+.rodape {
+    width: 100vw;
+    height: 5vh;
+    background-color: white;
+    color: blueviolet;
+    text-align: center;
+}
